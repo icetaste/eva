@@ -1,5 +1,5 @@
 <?php
-namespace eva\common;
+namespace eva\core;
 
 class Container
 {
